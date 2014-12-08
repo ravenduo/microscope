@@ -19,7 +19,7 @@ Template.postEdit.events({
     });
   },
 
-  'click .delete':function(e) {
+  'click .delete': function(e) {
     e.preventDefault();
 
     if (confirm("Delete this post?")) {
