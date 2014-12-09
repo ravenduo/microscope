@@ -8,4 +8,7 @@ To run:
   2. `cd microscope`
   3. `meteor`
   4. In your browser, go to: `http://localhost:3000/`
+  5. 
+  
+View the final product at: http://ravenduo-microscope.meteor.com/
 
